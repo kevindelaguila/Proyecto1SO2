@@ -1,0 +1,522 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.11)  12 MAR 2022 02:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Proyecto1.tex
+(Proyecto1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count191
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count193
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen140
+))
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks20
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks21
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks25
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box52
+) (Proyecto1.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Proyecto1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen159
+\scratchbox=\box53
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen160
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks27
+)
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+
+
+(C:\Users\kevin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<../Proyecto1Imagenes/MariaDB.jpg, id=1, 619.113pt x 40.35075pt>
+File: ../Proyecto1Imagenes/MariaDB.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/MariaDB.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/MariaDB.jpg  used on input line 2
+0.
+(pdftex.def)             Requested size: 557.19656pt x 36.31532pt.
+
+Overfull \hbox (73.4997pt too wide) in paragraph at lines 20--21
+ [][] 
+ []
+
+<../Proyecto1Imagenes/WP.jpg, id=2, 1010.5755pt x 464.937pt>
+File: ../Proyecto1Imagenes/WP.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/WP.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/WP.jpg  used on input line 26.
+(pdftex.def)             Requested size: 505.28651pt x 232.46793pt.
+
+Overfull \hbox (21.58965pt too wide) in paragraph at lines 26--27
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--32
+
+ []
+
+<../Proyecto1Imagenes/Database.jpg, id=3, 631.158pt x 238.491pt>
+File: ../Proyecto1Imagenes/Database.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/Database.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/Database.jpg  used on input line 
+36.
+(pdftex.def)             Requested size: 441.80759pt x 166.94255pt.
+<../Proyecto1Imagenes/User2.jpg, id=4, 386.04225pt x 157.7895pt>
+File: ../Proyecto1Imagenes/User2.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/User2.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/User2.jpg  used on input line 41.
+
+(pdftex.def)             Requested size: 386.0413pt x 157.78911pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--58
+
+ []
+
+[1
+
+{C:/Users/kevin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <../Proyecto1
+Imagenes/MariaDB.jpg> <../Proyecto1Imagenes/WP.jpg>]
+<../Proyecto1Imagenes/UsersDebian.jpg, id=13, 431.81325pt x 311.36325pt>
+File: ../Proyecto1Imagenes/UsersDebian.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/UsersDebian.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/UsersDebian.jpg  used on input li
+ne 62.
+(pdftex.def)             Requested size: 323.85913pt x 233.52187pt.
+ [2 <../Proyecto1Imagenes/Database.jpg> <../Proyecto1Imagenes/User2.jpg>]
+<../Proyecto1Imagenes/homebackup.jpg, id=17, 305.34074pt x 31.91925pt>
+File: ../Proyecto1Imagenes/homebackup.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/homebackup.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/homebackup.jpg  used on input lin
+e 69.
+(pdftex.def)             Requested size: 305.34pt x 31.91916pt.
+<../Proyecto1Imagenes/tmpbackup.jpg, id=18, 331.83975pt x 33.12375pt>
+File: ../Proyecto1Imagenes/tmpbackup.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/tmpbackup.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/tmpbackup.jpg  used on input line
+ 74.
+(pdftex.def)             Requested size: 331.83894pt x 33.12366pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--88
+
+ []
+
+<../Proyecto1Imagenes/cron.jpg, id=19, 759.43726pt x 33.726pt>
+File: ../Proyecto1Imagenes/cron.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/cron.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/cron.jpg  used on input line 92.
+(pdftex.def)             Requested size: 569.57654pt x 25.29442pt.
+
+Overfull \hbox (85.87967pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+[3 <../Proyecto1Imagenes/UsersDebian.jpg> <../Proyecto1Imagenes/homebackup.jpg>
+ <../Proyecto1Imagenes/tmpbackup.jpg>]
+<../Proyecto1Imagenes/Archivos.jpg, id=23, 450.483pt x 160.80075pt>
+File: ../Proyecto1Imagenes/Archivos.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/Archivos.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/Archivos.jpg  used on input line 
+98.
+(pdftex.def)             Requested size: 405.43094pt x 144.71931pt.
+<../Proyecto1Imagenes/Usuario2.jpg, id=24, 648.021pt x 227.6505pt>
+File: ../Proyecto1Imagenes/Usuario2.jpg Graphic file (type jpg)
+<use ../Proyecto1Imagenes/Usuario2.jpg>
+Package pdftex.def Info: ../Proyecto1Imagenes/Usuario2.jpg  used on input line 
+105.
+(pdftex.def)             Requested size: 518.4175pt x 182.12064pt.
+
+Overfull \hbox (34.72063pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+[4 <../Proyecto1Imagenes/cron.jpg> <../Proyecto1Imagenes/Archivos.jpg> <../Proy
+ecto1Imagenes/Usuario2.jpg>] (Proyecto1.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 4508 strings out of 478659
+ 71305 string characters out of 2845920
+ 384880 words of memory out of 3000000
+ 22570 multiletter control sequences out of 15000+600000
+ 409279 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,335b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr10.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/Users/kevin/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Proyecto1.pdf (4 pages, 527321 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

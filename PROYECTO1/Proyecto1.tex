@@ -1,0 +1,108 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Grupo 3}
+\title{Proyecto 1}
+\date{12 de Marzo de 2022}
+\begin{document}
+\maketitle
+\section{Instalacion de MariaDB}
+Trabajamos con el Sistema Operativo Debian 11, en donde instalamos la base de datos MariaDB, con la cual creamos dos usuarios en la base de datos asi como tambien dos usuarios del sistema. Utilizamos el comando "sudo apt install mariadb-server mariadb-client" para instalar el paquete de MariaDB.
+\newline
+\begin{figure}[hbtp]
+\caption{Version MariaDB}
+\centering
+\includegraphics[scale=0.9]{../Proyecto1Imagenes/MariaDB.jpg}
+\end{figure}
+\section{Instalacion de Wordpress}
+Se instala un CMS el cual es Wordpress
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.5]{../Proyecto1Imagenes/WP.jpg}
+\caption{Sitio Web}
+\end{figure}
+\newline
+\newline
+\newline
+\section{Creacion de bases de datos y usuarios}
+Dentro de MariaDB crearemos la base de datos wpproyecto1 y creamos dos usuarios que seran usuario1 y usuario2, se usaron los comandos 'create database wpproyecto1' y 'create user usuario1' el mismo procedimientos se utilizo con el segundo usuario.
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.7]{../Proyecto1Imagenes/Database.jpg}
+\caption{Base de datos}
+\end{figure}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=1]{../Proyecto1Imagenes/User2.jpg}
+\caption{Usuarios}
+\end{figure}
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\section{Creacion de usuarios en Debian 11}
+Para la creacion de usuarios en Debian utilizamos el comando "sudo adduser usuario1" y "sudo adduser usuario2"
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.75]{../Proyecto1Imagenes/UsersDebian.jpg}
+\caption{Usuarios en Debian}
+\end{figure}
+\section{Creacion de Carpetas}
+Necesitamos crear las carpetas /tmp/backup y la carpeta /home/backup en donde trabajaremos, ya que vamos a configurar un cron donde guarde las copias de respaldo de nuestra base de datos asi como la copia de respaldo del sitio web.
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=1]{../Proyecto1Imagenes/homebackup.jpg}
+\caption{Creacion /home/backup}
+\end{figure}
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=1]{../Proyecto1Imagenes/tmpbackup.jpg}
+\caption{Creacion /tmp/backup}
+\end{figure}
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\newline
+\section{Configuracion de Crontab con primer usuario}
+Se solicita que se cree una copia de respaldo para la base de datos y también para crear una copia de respaldo del sitio web por lo que utilizaremos estos comandos. Esto se realizara a las 03:00, pero lo cambiaremos a que se haga a cada minuto.
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.75]{../Proyecto1Imagenes/cron.jpg}
+\caption{Crontab}
+\end{figure}
+\section{Copias de respaldo}
+Luego de que hayamos configurado el crontab comenzaran a crearse las copias de respaldo tanto para la base de datos como para nuestro sitio web. Hemos cambiado los permisos de dos archivos para poder moverlos y luego intentar eliminarlos con el usuario2.\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.9]{../Proyecto1Imagenes/Archivos.jpg}
+\caption{Copias de Respaldo}
+\end{figure}
+\section{Mover carpetas con segundo usuario}
+Una vez que los archivos hayan sido creados, los movemos a la carpeta de /home/backup en donde si ejecutamos la orden rm nos mostrara que no tiene suficientes permisos para borrar el archivo. Modificamos los archivos con chmo 766 para solo lectura y escritura
+\begin{figure}[hbtp]
+\centering
+\includegraphics[scale=0.8]{../Proyecto1Imagenes/Usuario2.jpg}
+\caption{Mover carpetas y eliminarlas}
+\end{figure}
+\end{document}
